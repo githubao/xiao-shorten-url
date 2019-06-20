@@ -38,6 +38,7 @@ func (h *DBHandler) getShortUrl(w http.ResponseWriter, r *http.Request) {
 
 	if len(longURL) > 0 {
 		http.Redirect(w, r, longURL, http.StatusSeeOther)
+		return
 	}
 
 	fmt.Fprint(w, "404: not found !")
