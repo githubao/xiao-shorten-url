@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "20Pind5XCrfZL/F0oibWfd9gotA=",
+			"path": "github.com/boltdb/bolt",
+			"revision": "fd01fc79c553a8e99d512a07e8e0c63d4a3ccfc5",
+			"revisionTime": "2018-03-02T18:00:52Z"
+		},
+		{
+			"checksumSHA1": "OvrNwcBO+xO4FZ7eMbazho1C3t0=",
+			"path": "goji.io",
+			"revision": "490b001d03d16a116d7c44d95d216c69a1aae798",
+			"revisionTime": "2019-01-26T23:58:29Z"
+		},
+		{
+			"checksumSHA1": "WjH6BtYreucaiAqweH8EVTuzfq4=",
+			"path": "goji.io/internal",
+			"revision": "490b001d03d16a116d7c44d95d216c69a1aae798",
+			"revisionTime": "2019-01-26T23:58:29Z"
+		},
+		{
+			"checksumSHA1": "pwKEcvjPuybiYSQSn54I/Za9S94=",
+			"path": "goji.io/pat",
+			"revision": "490b001d03d16a116d7c44d95d216c69a1aae798",
+			"revisionTime": "2019-01-26T23:58:29Z"
+		},
+		{
+			"checksumSHA1": "HiFwLEdH2hi65LxmHk2lKjA3CU8=",
+			"path": "goji.io/pattern",
+			"revision": "490b001d03d16a116d7c44d95d216c69a1aae798",
+			"revisionTime": "2019-01-26T23:58:29Z"
+		},
+		{
+			"checksumSHA1": "vYYwyICPulixLe5cJS04LaY66aU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "9eb1bfa1ce65ae8a6ff3114b0aaf9a41a6cf3560",
+			"revisionTime": "2019-03-29T02:42:46Z"
+		}
+	],
+	"rootPath": "github.com/githubao/xiao-shorten-url"
+}
